@@ -34,3 +34,11 @@ Languages and Tools :
 <img width="30px" align="left" alt="react" style="padding-right:11px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
 <img width="30px" align="left" alt="react" style="padding-right:11px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />
 <img width="30px" align="left" alt="react" style="padding-right:11px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
+
+### My Daily Routine
+```mermaid 
+    graph TD
+        Code-->EAT
+        Eat-->Sleep
+        Sleep-->Code;
+ ```
